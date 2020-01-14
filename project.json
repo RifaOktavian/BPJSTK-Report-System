@@ -1,0 +1,837 @@
+{
+    "RET": 0,
+    "MSG": "SUCCESS",
+    "DATA": [
+      {
+        "ID_PROJECT": 268,
+        "PROJECT_NAME": "APLIKASI E-SCHEDULE",
+        "DIVISI": "DIVISI SEKRETARIS BADAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "ATTA UL QUDDUS",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 261,
+        "PROJECT_NAME": "APLIKASI LEARNING CENTER MANAGEMENT SYSTEM (LCMS)",
+        "DIVISI": "LEARNING OFFICE",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "ATTA UL QUDDUS",
+        "TIM": 5,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 269,
+        "PROJECT_NAME": "APLIKASI LEMBAGA SERTIFIKASI PROFESI",
+        "DIVISI": "LEARNING OFFICE",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "ATTA UL QUDDUS",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 262,
+        "PROJECT_NAME": "APLIKASI RUSUNAWA",
+        "DIVISI": "DIVISI PENGELOLAAN ASET DAN PELAYANAN UMUM",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "ATTA UL QUDDUS",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 265,
+        "PROJECT_NAME": "APLIKASI SISDIKLAT (SISTEM INFORMASI DATA DIKLAT)",
+        "DIVISI": "LEARNING OFFICE",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "ATTA UL QUDDUS",
+        "TIM": 1,
+        "PROGRESS": "DESIGN"
+      },
+      {
+        "ID_PROJECT": 267,
+        "PROJECT_NAME": "APLIKASI SISTEM DIGITALISASI ARSIP (SIDIA)",
+        "DIVISI": "DIVISI SEKRETARIS BADAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "ATTA UL QUDDUS",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 263,
+        "PROJECT_NAME": "APLIKASI WEB PORTAL LEARNING",
+        "DIVISI": "LEARNING OFFICE",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "ATTA UL QUDDUS",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 276,
+        "PROJECT_NAME": "Aplikasi Dashboard Klaim dan Contact Center",
+        "DIVISI": "DEPUTI DIREKTUR BIDANG PELAYANAN ELEKTRONIK DAN PENGADUAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-11-29T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 4,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 287,
+        "PROJECT_NAME": "Aplikasi E-Grade",
+        "DIVISI": "DIVISI HUMAN CAPITAL",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2019-01-31T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 8,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 303,
+        "PROJECT_NAME": "Aplikasi Pemberitahuan Konfirmasi Ulang Jaminan Pensiun Berkala",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 3,
+        "PROGRESS": "DEVELOPMENT"
+      },
+      {
+        "ID_PROJECT": 274,
+        "PROJECT_NAME": "Aplikasi Pengelolaan Investasi Properti",
+        "DIVISI": "DEPUTI DIREKTUR BIDANG INVESTASI LANGSUNG",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2019-08-01T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 8,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 213,
+        "PROJECT_NAME": "BPJSTKU",
+        "DIVISI": "DIVISI PENGEMBANGAN TEKNOLOGI INFORMASI",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2018-01-30T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 2,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 231,
+        "PROJECT_NAME": "CMS Website BPJS Ketenagakerjaan",
+        "DIVISI": "DIVISI HUBUNGAN ANTAR LEMBAGA & KEMITRAAN",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2019-08-29T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 4,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 266,
+        "PROJECT_NAME": "CR PENAMBAHAN KANAL PENERIMAAN IURAN BANK DKI",
+        "DIVISI": "DIVISI PERLUASAN KEPESERTAAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "ATTA UL QUDDUS",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 271,
+        "PROJECT_NAME": "CR PENGEMBANGAN SIPP",
+        "DIVISI": "DIVISI PERLUASAN KEPESERTAAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "ATTA UL QUDDUS",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 277,
+        "PROJECT_NAME": "Dashboard BUMN",
+        "DIVISI": "DIVISI PENGELOLAAN KEPESERTAAN",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2019-02-27T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 8,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 296,
+        "PROJECT_NAME": "Dashboard JHT - JP",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 2,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 293,
+        "PROJECT_NAME": "Dashboard Klaim & Contact Center",
+        "DIVISI": "DEPUTI DIREKTUR BIDANG PELAYANAN ELEKTRONIK DAN PENGADUAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 280,
+        "PROJECT_NAME": "Enhancement BPJSTKU - Sistem pelaporan KK integrasi PLKK",
+        "DIVISI": "DEPUTI DIREKTUR BIDANG PELAYANAN ELEKTRONIK DAN PENGADUAN",
+        "STATUSREVIEW": "Rilis",
+        "ENDDATE": "2019-10-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 256,
+        "PROJECT_NAME": "Enhancement BPJSTKU - TK Asing",
+        "DIVISI": "DIVISI PENGELOLAAN KEPESERTAAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-11-28T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 4,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 289,
+        "PROJECT_NAME": "Enhancement Echannel - Penyesuaian Nomor Contact Center 175",
+        "DIVISI": "DEPUTI DIREKTUR BIDANG PELAYANAN ELEKTRONIK DAN PENGADUAN",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2019-09-29T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 281,
+        "PROJECT_NAME": "Enhancement SMILE - Cek kelayakan JHT 30%",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "Rilis",
+        "ENDDATE": "2019-10-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 282,
+        "PROJECT_NAME": "Enhancement SMILE - JHT kurang bayar karena telat setup bunga",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "Rilis",
+        "ENDDATE": "2019-10-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 283,
+        "PROJECT_NAME": "Enhancement SMILE - JP Lumpsum kurang bayar karena telat setup bunga",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "Rilis",
+        "ENDDATE": "2019-10-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 305,
+        "PROJECT_NAME": "Enhancement SMILE - Koreksi Upah untuk Klaim JKM",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 286,
+        "PROJECT_NAME": "Enhancement SMILE - Manfaat Khusus Klaim PMI",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2019-08-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 278,
+        "PROJECT_NAME": "Enhancement SMILE - Pendaftaran anak yang lahir 300 hari pada program jaminan pensiun",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2019-08-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 290,
+        "PROJECT_NAME": "Enhancement SMILE - Penyempurnaan Pembayaran JP Berkala Per Tiga Bulan",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "Rilis",
+        "ENDDATE": "2019-10-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 297,
+        "PROJECT_NAME": "Enhancement SMILE - Penyesuaian eligibilitas usia pensiun",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-10-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "TESTING"
+      },
+      {
+        "ID_PROJECT": 285,
+        "PROJECT_NAME": "Enhancement SMILE - Report Cetak Penetapan Klaim",
+        "DIVISI": "DIVISI OPERASIONAL TEKNOLOGI INFORMASI",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2019-09-29T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 279,
+        "PROJECT_NAME": "Enhancement SSO - Perbaikan Layanan Antrian Online dan Penutupan Layanan eklaim",
+        "DIVISI": "DIVISI PENGEMBANGAN TEKNOLOGI INFORMASI",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2019-07-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 228,
+        "PROJECT_NAME": "Enhancement Sistem Informasi Pelaporan Peserta (SIPP) Integrasi Sleeker",
+        "DIVISI": "DIVISI PENGELOLAAN KEPESERTAAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-09-30T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 4,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 260,
+        "PROJECT_NAME": "Enhancement Sistem Informasi Perlindungan Pekerja (SMILE) -  Bugs fixing pada rapel minus",
+        "DIVISI": "DIVISI PENGELOLAAN KEPESERTAAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-11-28T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 227,
+        "PROJECT_NAME": "Enhancement Sistem Informasi Perlindungan Pekerja (SMILE) - Integrasi SISLA pengukuran SLA",
+        "DIVISI": "DIVISI PENGEMBANGAN TEKNOLOGI INFORMASI",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-09-30T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 6,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 324,
+        "PROJECT_NAME": "Enhancement Sistem Informasi Perlindungan Pekerja (SMILE) - Laporan Coverage Share",
+        "DIVISI": "DIVISI PENGELOLAAN KEPESERTAAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-10-30T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 7,
+        "PROGRESS": "DEVELOPMENT"
+      },
+      {
+        "ID_PROJECT": 252,
+        "PROJECT_NAME": "Enhancement Sistem Informasi Perlindungan Pekerja (SMILE) - Laporan Informasi Kepesertaan Segmentasi Kepsertaan",
+        "DIVISI": "DIVISI PENGELOLAAN KEPESERTAAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-10-30T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 7,
+        "PROGRESS": "DEVELOPMENT"
+      },
+      {
+        "ID_PROJECT": 240,
+        "PROJECT_NAME": "Enhancement Sistem Informasi Perlindungan Pekerja (SMILE) - Laporan Kepesertaan Non-ASN",
+        "DIVISI": "DIVISI PENGELOLAAN KEPESERTAAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-10-24T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 7,
+        "PROGRESS": "DEVELOPMENT"
+      },
+      {
+        "ID_PROJECT": 259,
+        "PROJECT_NAME": "Enhancement Sistem Informasi Perlindungan Pekerja (SMILE) - Modul EPS",
+        "DIVISI": "DIVISI PENGELOLAAN KEPESERTAAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-11-28T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 273,
+        "PROJECT_NAME": "Enhancement Sistem Informasi Perlindungan Pekerja (SMILE) - Modul Pengawasan dan Pemeriksaan",
+        "DIVISI": "DIVISI PENGEMBANGAN TEKNOLOGI INFORMASI",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2019-08-29T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 7,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 258,
+        "PROJECT_NAME": "Enhancement Sistem Informasi Perlindungan Pekerja (SMILE) - Penyesuaian BPJSTK Clearance",
+        "DIVISI": "DIVISI PENGELOLAAN KEPESERTAAN",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2019-10-03T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 3,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 257,
+        "PROJECT_NAME": "Enhancement Sistem Informasi Perlindungan Pekerja (SMILE) - Perubahan Nama dan Fungsi Role",
+        "DIVISI": "DIVISI PENGELOLAAN KEPESERTAAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-10-30T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 2,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 275,
+        "PROJECT_NAME": "Enhancement Sistem Informasi Perlindungan Pekerja (SMILE) -Modul SERSAN Komunikasi dan Akusisi",
+        "DIVISI": "DIVISI PENGELOLAAN KEPESERTAAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-11-29T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 6,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 244,
+        "PROJECT_NAME": "Enhancement Sistem Informasi Perlindungan Pekerja (SMILE) Report Modul Kepesertaan",
+        "DIVISI": "DIVISI PENGELOLAAN KEPESERTAAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-10-30T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 272,
+        "PROJECT_NAME": "Enhancement Sistem Informasi Perlindungan Pekerja (SMILE)- Tools Pencarian Data Referensi",
+        "DIVISI": "DIVISI PENGELOLAAN KEPESERTAAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-11-28T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 2,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 229,
+        "PROJECT_NAME": "Enhancement Sistem Pelaporan Kecelakaan Kerja (PLKK)",
+        "DIVISI": "DEPUTI DIREKTUR BIDANG PELAYANAN ELEKTRONIK DAN PENGADUAN",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2019-09-30T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 8,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 304,
+        "PROJECT_NAME": "Enhancement Vokasi - Penyempurnaan Aplikasi SMILE, SSO, LPK terkait vokasi",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-11-29T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "TESTING"
+      },
+      {
+        "ID_PROJECT": 226,
+        "PROJECT_NAME": "Enhancement Website BPJS Ketenagakerjaan Halaman GoodGovernance",
+        "DIVISI": "DIVISI HUBUNGAN ANTAR LEMBAGA & KEMITRAAN, DIVISI SEKRETARIS BADAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-10-10T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 6,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 317,
+        "PROJECT_NAME": "Informasi Perbaikan Aplikasi JP",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 316,
+        "PROJECT_NAME": "Integrasi kepesertaan dan pelayanan",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 310,
+        "PROJECT_NAME": "Klaim JHT via SPO dengan KTP-EL Reader",
+        "DIVISI": "DEPUTI DIREKTUR BIDANG PELAYANAN ELEKTRONIK DAN PENGADUAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 301,
+        "PROJECT_NAME": "Modul Cek Saldo JHT",
+        "DIVISI": "DEPUTI DIREKTUR BIDANG PELAYANAN ELEKTRONIK DAN PENGADUAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 295,
+        "PROJECT_NAME": "Mutasi Saldo Tertinggal Pasca Klaim Penuh",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "TESTING"
+      },
+      {
+        "ID_PROJECT": 222,
+        "PROJECT_NAME": "Online Single Submission (OSS)",
+        "DIVISI": "DIVISI PENGEMBANGAN TEKNOLOGI INFORMASI",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2018-01-30T17:00:00.000Z",
+        "PMO": "ATTA UL QUDDUS",
+        "TIM": 1,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 264,
+        "PROJECT_NAME": "PERBAIKAN APLIKASI OSS",
+        "DIVISI": "DIVISI PERLUASAN KEPESERTAAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "ATTA UL QUDDUS",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 321,
+        "PROJECT_NAME": "Pembuatan Aplikasi Pilot Project Search Engine JKK",
+        "DIVISI": "DIVISI PERENCANAAN STRATEGIS",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 294,
+        "PROJECT_NAME": "Pemenuhan Data Penyusunan Laporan Keuangan",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 309,
+        "PROJECT_NAME": "Pemutakhiran Data dengan KTP-El Reader",
+        "DIVISI": "DEPUTI DIREKTUR BIDANG PELAYANAN ELEKTRONIK DAN PENGADUAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 298,
+        "PROJECT_NAME": "Penambahan Fitur Aplikasi Contact Center",
+        "DIVISI": "DEPUTI DIREKTUR BIDANG PELAYANAN ELEKTRONIK DAN PENGADUAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 323,
+        "PROJECT_NAME": "Penambahan menu dan informasi aplikasi KPI unit kerja",
+        "DIVISI": "DIVISI PERENCANAAN STRATEGIS",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-10-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 300,
+        "PROJECT_NAME": "Pendaftaran Kepesertaan Menggunakan KTP Elektronik",
+        "DIVISI": "DEPUTI DIREKTUR BIDANG PELAYANAN ELEKTRONIK DAN PENGADUAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 299,
+        "PROJECT_NAME": "Penerbitan Tanda Bukti Kepesertaan",
+        "DIVISI": "DEPUTI DIREKTUR BIDANG PELAYANAN ELEKTRONIK DAN PENGADUAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 307,
+        "PROJECT_NAME": "Pengembangan Layanan Uang Elektronik",
+        "DIVISI": "DEPUTI DIREKTUR BIDANG PELAYANAN ELEKTRONIK DAN PENGADUAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 320,
+        "PROJECT_NAME": "Penyempurnaan Menu Report Pembayaran JHT pada aplikasi SMILE",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 318,
+        "PROJECT_NAME": "Penyempurnaan desain menu konfirmasi ulang JP",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-31T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 319,
+        "PROJECT_NAME": "Penyempurnaan pajak JHT kurang bayar",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 315,
+        "PROJECT_NAME": "Penyesuaian mekanisme kompensasi pembayaran JP Berkala",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 308,
+        "PROJECT_NAME": "Perancangan Digital Branch",
+        "DIVISI": "DEPUTI DIREKTUR BIDANG PELAYANAN ELEKTRONIK DAN PENGADUAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 314,
+        "PROJECT_NAME": "Permasalahan pembayaran JP pada SMILE",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 313,
+        "PROJECT_NAME": "Permintaan Report Jaminan Pensiun",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "Rilis",
+        "ENDDATE": "2019-10-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 292,
+        "PROJECT_NAME": "Report Aplikasi KPI",
+        "DIVISI": "DIVISI PERENCANAAN STRATEGIS",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-10-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 322,
+        "PROJECT_NAME": "Report Jaminan Pensiun PU % Report JHT BPU",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "TESTING"
+      },
+      {
+        "ID_PROJECT": 291,
+        "PROJECT_NAME": "Report Outstanding Klaim",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2019-09-29T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 284,
+        "PROJECT_NAME": "Sistem Aplikasi Vokasi",
+        "DIVISI": "DIVISI PENGEMBANGAN JAMINAN",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2019-08-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 312,
+        "PROJECT_NAME": "Sistem Ayokitakerja.go.id",
+        "DIVISI": "UNIT CHANGE MANAGEMENT OFFICE",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 216,
+        "PROJECT_NAME": "Sistem Informasi Kepatuhan & Hukum (SIPATUH)",
+        "DIVISI": "DIVISI PENGEMBANGAN TEKNOLOGI INFORMASI",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2018-01-30T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 3,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 219,
+        "PROJECT_NAME": "Sistem Informasi Manajemen Risiko (SIMRK)",
+        "DIVISI": "DIVISI PENGEMBANGAN TEKNOLOGI INFORMASI",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2018-01-30T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 1,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 302,
+        "PROJECT_NAME": "Sistem Informasi Monitoring Pengaduan",
+        "DIVISI": "DEPUTI DIREKTUR BIDANG PELAYANAN ELEKTRONIK DAN PENGADUAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 220,
+        "PROJECT_NAME": "Sistem Informasi Pelaporan Peserta (SIPP)",
+        "DIVISI": "DIVISI PENGEMBANGAN TEKNOLOGI INFORMASI",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2018-01-30T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 1,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 217,
+        "PROJECT_NAME": "Sistem Informasi Perlindungan Pekerja (SMILE)",
+        "DIVISI": "DIVISI PENGEMBANGAN TEKNOLOGI INFORMASI",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2018-01-30T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 1,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 218,
+        "PROJECT_NAME": "Sistem Pelaporan Kecelakaan Kerja (PLKK)",
+        "DIVISI": "DIVISI PENGEMBANGAN TEKNOLOGI INFORMASI",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2018-01-30T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 1,
+        "PROGRESS": "IMPLEMENTATION"
+      },
+      {
+        "ID_PROJECT": 311,
+        "PROJECT_NAME": "Verifikasi Klaim JKK & JKM dengan KTP El Reader",
+        "DIVISI": "DEPUTI DIREKTUR BIDANG PELAYANAN ELEKTRONIK DAN PENGADUAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 306,
+        "PROJECT_NAME": "Verifikasi Klaim JP",
+        "DIVISI": "DEPUTI DIREKTUR BIDANG PELAYANAN ELEKTRONIK DAN PENGADUAN",
+        "STATUSREVIEW": "In Progress",
+        "ENDDATE": "2019-12-30T17:00:00.000Z",
+        "PMO": "EKA DESTIKA SANDAKILA",
+        "TIM": 1,
+        "PROGRESS": "PERENCANAAN"
+      },
+      {
+        "ID_PROJECT": 225,
+        "PROJECT_NAME": "Website BPJS Ketenagakerjaan",
+        "DIVISI": "DIVISI PENGEMBANGAN TEKNOLOGI INFORMASI",
+        "STATUSREVIEW": "Closed",
+        "ENDDATE": "2016-12-29T17:00:00.000Z",
+        "PMO": "ARIEF FAHLEVI",
+        "TIM": 3,
+        "PROGRESS": "IMPLEMENTATION"
+      }
+    ],
+    "TOTAL": 83
+  }

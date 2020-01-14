@@ -1,0 +1,736 @@
+{
+  "RET": 0,
+  "MSG": "SUCCESS",
+  "DATA": [
+    {
+      "KODE_USER": "EK262740",
+      "NAMA_USER": "EKA DESTIKA SANDAKILA",
+      "NIK": "262741590",
+      "JOBTITLE": "Ahli Madya Business Analyst ",
+      "TOTAL_IN": 34,
+      "TOTAL_RILIS": 6,
+      "TOTAL_CLOSED": 10
+    },
+    {
+      "KODE_USER": "AR171880",
+      "NAMA_USER": "ARIEF FAHLEVI",
+      "NIK": "171881691",
+      "JOBTITLE": "Ahli Madya Enterprise Architect ",
+      "TOTAL_IN": 14,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 13
+    },
+    {
+      "KODE_USER": "AT138550",
+      "NAMA_USER": "ATTA UL QUDDUS",
+      "NIK": "138550376",
+      "JOBTITLE": "Ahli Senior Business Analyst ",
+      "TOTAL_IN": 14,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 2
+    },
+    {
+      "KODE_USER": "JO163660",
+      "NAMA_USER": "JONTRI  PAKPAHAN",
+      "NIK": "163661588",
+      "JOBTITLE": "Ahli Madya System Analyst Kepesertaan dan Pelayanan ",
+      "TOTAL_IN": 7,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 2
+    },
+    {
+      "KODE_USER": "FA178240",
+      "NAMA_USER": "FADEL MUHAMMAD",
+      "NIK": "178241794",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 4,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 3
+    },
+    {
+      "KODE_USER": "MO177530",
+      "NAMA_USER": "MOHAMMAD WILDAN BUCHORI",
+      "NIK": "177531794",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 4,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 2
+    },
+    {
+      "KODE_USER": "AD176935",
+      "NAMA_USER": "ADHITYAH ANUGRAH",
+      "NIK": "176931794",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 3,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 3
+    },
+    {
+      "KODE_USER": "EK12343Q",
+      "NAMA_USER": "EKA PURNAWAN",
+      "NIK": "158811473",
+      "JOBTITLE": "Ahli Senior Solution Architect Kepesertaan dan Pelayanan ",
+      "TOTAL_IN": 3,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "FA171870",
+      "NAMA_USER": "FARIZUL FIKRI",
+      "NIK": "171871692",
+      "JOBTITLE": "Ahli Utama System Analyst Support dan MIS ",
+      "TOTAL_IN": 2,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 2
+    },
+    {
+      "KODE_USER": "SE165580",
+      "NAMA_USER": "SEPTA RINGGA DANIARTA",
+      "NIK": "165581590",
+      "JOBTITLE": "Ahli Utama System Analyst Support dan MIS ",
+      "TOTAL_IN": 2,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 1
+    },
+    {
+      "KODE_USER": "WA165680",
+      "NAMA_USER": "WAHYU GUGUS NURCAHYO",
+      "NIK": "165681592",
+      "JOBTITLE": "Ahli Utama Solution Architect Support dan MIS ",
+      "TOTAL_IN": 2,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 2
+    },
+    {
+      "KODE_USER": "YA156000",
+      "NAMA_USER": "YANNES LUMBAN GAOL",
+      "NIK": "156001388",
+      "JOBTITLE": "Ahli Madya IT Development GRC ",
+      "TOTAL_IN": 2,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "AD176930",
+      "NAMA_USER": "ADHITYAH ANUGRAH",
+      "NIK": "176931794",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 1,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 1
+    },
+    {
+      "KODE_USER": "AD188156",
+      "NAMA_USER": "ADITIA JULIANDA PUTRA",
+      "NIK": "188151892",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 1,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "AN162750",
+      "NAMA_USER": "ANDI SHAHREZA HARAHAP",
+      "NIK": "162751593",
+      "JOBTITLE": "Ahli Madya System Analyst Kepesertaan dan Pelayanan ",
+      "TOTAL_IN": 1,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 1
+    },
+    {
+      "KODE_USER": "AN171860",
+      "NAMA_USER": "ANGGA RICARDO MALAU",
+      "NIK": "171861690",
+      "JOBTITLE": "Ahli Madya Programmer Kepesertaan dan Pelayanan ",
+      "TOTAL_IN": 1,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "DA177200",
+      "NAMA_USER": "DAVIN EGA PRASETYA",
+      "NIK": "177201794",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 1,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 3
+    },
+    {
+      "KODE_USER": "IM151870",
+      "NAMA_USER": "DEWA MADE RUPAWAN",
+      "NIK": "151871380",
+      "JOBTITLE": "Ahli Senior Solution Architect Kepesertaan dan Pelayanan ",
+      "TOTAL_IN": 1,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "FR171890",
+      "NAMA_USER": "FRANKI HALBERD",
+      "NIK": "171891692",
+      "JOBTITLE": "Ahli Madya Programmer Kepesertaan dan Pelayanan ",
+      "TOTAL_IN": 1,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 1
+    },
+    {
+      "KODE_USER": "GU176850",
+      "NAMA_USER": "GURUH WIDOYOKO",
+      "NIK": "176851779",
+      "JOBTITLE": "Ahli Utama System Analyst Support dan MIS ",
+      "TOTAL_IN": 1,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 3
+    },
+    {
+      "KODE_USER": "HE142490",
+      "NAMA_USER": "HERRY ASMANTO",
+      "NIK": "142490581",
+      "JOBTITLE": "Ahli Utama Business Analyst ",
+      "TOTAL_IN": 1,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 1
+    },
+    {
+      "KODE_USER": "MU171920",
+      "NAMA_USER": "MUHAMMAD RIFQI HABIBI",
+      "NIK": "171921694",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 1,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 2
+    },
+    {
+      "KODE_USER": "SU135230",
+      "NAMA_USER": "SUHARNAM",
+      "NIK": "135230276",
+      "JOBTITLE": "Ahli Utama System Analyst Support dan MIS ",
+      "TOTAL_IN": 1,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 1
+    },
+    {
+      "KODE_USER": "WA188230",
+      "NAMA_USER": "WARIN AHMAD NURROHMAN",
+      "NIK": "188231894",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 1,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "AD188150",
+      "NAMA_USER": "ADITIA PUTRA",
+      "NIK": "188151892",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "AD171840",
+      "NAMA_USER": "ADITYA PERMANA",
+      "NIK": "171841690",
+      "JOBTITLE": "Ahli Utama System Analyst Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 1
+    },
+    {
+      "KODE_USER": "AF131780",
+      "NAMA_USER": "AFRIALDI",
+      "NIK": "131789973",
+      "JOBTITLE": "Asisten Deputi Bidang Layanan Umum",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "AG288160",
+      "NAMA_USER": "AGTRIA PRILIKA HERNIATY",
+      "NIK": "288161893",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "AG161790",
+      "NAMA_USER": "AGUS AWALUDIN",
+      "NIK": "161791581",
+      "JOBTITLE": "Penata Senior Pengendalian Dan Pengembangan Pelayanan Elektronik",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "AH158840",
+      "NAMA_USER": "AHMAD MULIA",
+      "NIK": "158841476",
+      "JOBTITLE": "Ahli Senior Solution Architect Kepesertaan dan Pelayanan ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "AH177000",
+      "NAMA_USER": "AHMAD RIFQIE ILHAM FIRDAUS",
+      "NIK": "177001794",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 2
+    },
+    {
+      "KODE_USER": "AH177005",
+      "NAMA_USER": "AHMAD RIFQIE ILHAM FIRDAUS",
+      "NIK": "177001794",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "AM171850",
+      "NAMA_USER": "AMIR RUDIN",
+      "NIK": "171851690",
+      "JOBTITLE": "Ahli Madya Programmer Kepesertaan dan Pelayanan ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "AN177940",
+      "NAMA_USER": "ANGGA ERIANSYAH SETIAWAN",
+      "NIK": "177941792",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "AN177948",
+      "NAMA_USER": "ANGGA ERIANSYAH SETIAWAN",
+      "NIK": "177941792",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "AR155960",
+      "NAMA_USER": "ARDIANTO",
+      "NIK": "155961388",
+      "JOBTITLE": "Ahli Utama System Analyst Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "AR162730",
+      "NAMA_USER": "ARYA WIMANTARA",
+      "NIK": "162731589",
+      "JOBTITLE": "Penata Madya Pengolahan Data",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "AZ171216",
+      "NAMA_USER": "AZHAR FADILLAH",
+      "NIK": "17121792",
+      "JOBTITLE": null,
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "BA158800",
+      "NAMA_USER": "BAMBANG TRI BUDAYA",
+      "NIK": "158801471",
+      "JOBTITLE": "Ahli Senior Solution Architect Kepesertaan dan Pelayanan ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "DI112550",
+      "NAMA_USER": "DIDDI SISWADI",
+      "NIK": "112558363",
+      "JOBTITLE": "Deputi Direktur Bidang Pengembangan Teknologi Informasi",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "DW267060",
+      "NAMA_USER": "DWI YUNITA SARI",
+      "NIK": "267061591",
+      "JOBTITLE": "Penata Madya TI (Utama B)",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "ET223040",
+      "NAMA_USER": "ETTY RUKAYATI",
+      "NIK": "223048665",
+      "JOBTITLE": "Ahli Utama IT Project Management",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "FE171900",
+      "NAMA_USER": "FERI KURNIA",
+      "NIK": "171901690",
+      "JOBTITLE": "Ahli Utama System Analyst Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 3
+    },
+    {
+      "KODE_USER": "GU158830",
+      "NAMA_USER": "GUNAWAN HANDOKO",
+      "NIK": "158831472",
+      "JOBTITLE": "Ahli Senior Solution Architect Kepesertaan dan Pelayanan ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "SIPAKABIRO43A",
+      "NAMA_USER": "HARDI YULIWAN",
+      "NIK": "1212122",
+      "JOBTITLE": null,
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "HA188170",
+      "NAMA_USER": "HARIS WIJANARKO",
+      "NIK": "188171894",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "HA188176",
+      "NAMA_USER": "HARIS WIJANARKO",
+      "NIK": "188171894",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "HA188180",
+      "NAMA_USER": "HARYO TRIWARDHONO",
+      "NIK": "188181892",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 1
+    },
+    {
+      "KODE_USER": "HE124840",
+      "NAMA_USER": "HERRY PURWANTO",
+      "NIK": "124848867",
+      "JOBTITLE": "Instruktur 1",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "IH142100",
+      "NAMA_USER": "IHSAN ASGAF PANE, ST",
+      "NIK": "142100581",
+      "JOBTITLE": "Asisten Deputi Bidang Pelayanan Elektronik",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "IN165730",
+      "NAMA_USER": "INDRA YUSUF KINARTA",
+      "NIK": "165731591",
+      "JOBTITLE": "Ahli Madya IT Project Management ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "IN165731",
+      "NAMA_USER": "INDRA YUSUF KINARTA",
+      "NIK": "165731591",
+      "JOBTITLE": "Ahli Madya IT Project Management ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 1
+    },
+    {
+      "KODE_USER": "JA171830",
+      "NAMA_USER": "JANWANDI RULIANSEN SINAGA",
+      "NIK": "171831691",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "JH188190",
+      "NAMA_USER": "JHON HAPOSAN SIRAIT",
+      "NIK": "188191893",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 1
+    },
+    {
+      "KODE_USER": "JU177450",
+      "NAMA_USER": "JULYAN ALVIN",
+      "NIK": "177451791",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "JU177456",
+      "NAMA_USER": "JULYAN ALVIN",
+      "NIK": "177451791",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 1
+    },
+    {
+      "KODE_USER": "KR142560",
+      "NAMA_USER": "KRISMIAN SITOMPUL S.T.",
+      "NIK": "142560580",
+      "JOBTITLE": "Ahli Senior Business Analyst ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "LA165060",
+      "NAMA_USER": "LANGIT LANGLANGIE",
+      "NIK": "165061589",
+      "JOBTITLE": "Ahli Madya Enterprise Architect ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 1
+    },
+    {
+      "KODE_USER": "MU166950",
+      "NAMA_USER": "MUHAMMAD IQBAL",
+      "NIK": "166951592",
+      "JOBTITLE": "Ahli Muda Database Management ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "MU165220",
+      "NAMA_USER": "MUHAMMAD RHIDWAN",
+      "NIK": "165221591",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "MU188200",
+      "NAMA_USER": "MUHYIDIN UBAIDDILLAH",
+      "NIK": "188201895",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "MU188205",
+      "NAMA_USER": "MUHYIDIN UBAIDDILLAH",
+      "NIK": "188201895",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "NA155970",
+      "NAMA_USER": "NANDA ANTHONY LUBIS",
+      "NIK": "155971390",
+      "JOBTITLE": "Penata Madya Riset Dan Pengembangan Jaminan Sosial",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "NU109920",
+      "NAMA_USER": "NUGROHO",
+      "NIK": "109928159",
+      "JOBTITLE": "Senior Sistem Analis ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "PAJAK43A",
+      "NAMA_USER": "PAJAK43A",
+      "NIK": "PAJAK43A",
+      "JOBTITLE": null,
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "PAJAK43A2",
+      "NAMA_USER": "PAJAK43A2",
+      "NIK": "PAJAK43A2",
+      "JOBTITLE": null,
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "RA167070",
+      "NAMA_USER": "RADIKA.SW",
+      "NIK": "167071590",
+      "JOBTITLE": "Ahli Madya Programmer Kepesertaan dan Pelayanan ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "RE159040",
+      "NAMA_USER": "RENDY AGUSTIONO",
+      "NIK": "159041491",
+      "JOBTITLE": "Ahli Madya Business Analyst ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "RE155480",
+      "NAMA_USER": "REZANDANNY FELASANDRO",
+      "NIK": "155481389",
+      "JOBTITLE": "Ahli Madya IT Development GRC ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "RI155980",
+      "NAMA_USER": "RIZA GUNTUR PRAKOSO",
+      "NIK": "155981388",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "RO158820",
+      "NAMA_USER": "ROBBY HARDIYAN",
+      "NIK": "158821481",
+      "JOBTITLE": "Ahli Senior Solution Architect Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "RO165540",
+      "NAMA_USER": "ROCKY TAKELA SIMANJUNTAK",
+      "NIK": "165541589",
+      "JOBTITLE": "Ahli Madya Programmer Kepesertaan dan Pelayanan ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "RU188210",
+      "NAMA_USER": "RUDI DWI APRIYANTO",
+      "NIK": "188211893",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 1
+    },
+    {
+      "KODE_USER": "SA171910",
+      "NAMA_USER": "SATRIA ARINDRA",
+      "NIK": "171911692",
+      "JOBTITLE": "Ahli Madya IT Project Management ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "SE255990",
+      "NAMA_USER": "SERLY MALIZA",
+      "NIK": "255991392",
+      "JOBTITLE": "Penata Madya Keuangan (Utama B)",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "SIPA43A",
+      "NAMA_USER": "SIPA43A",
+      "NIK": "765421542",
+      "JOBTITLE": null,
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "SU126760",
+      "NAMA_USER": "SUHARI",
+      "NIK": "126769270",
+      "JOBTITLE": "Asisten Deputi Bidang Perencanaan Dan Manajemen Kualitas",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "SY133550",
+      "NAMA_USER": "SYAMSUL RIZAL",
+      "NIK": "133550176",
+      "JOBTITLE": "Deputi Direktur Bidang Pengembangan Teknologi Informasi",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "TE161263",
+      "NAMA_USER": "TES USER",
+      "NIK": "1612626126",
+      "JOBTITLE": null,
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    },
+    {
+      "KODE_USER": "TO188220",
+      "NAMA_USER": "TONI RIZKY RIYANOV",
+      "NIK": "188221894",
+      "JOBTITLE": "Ahli Madya Programmer Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 1
+    },
+    {
+      "KODE_USER": "ZI123",
+      "NAMA_USER": "ZIMMY F GURNING",
+      "NIK": "158851480",
+      "JOBTITLE": "Ahli Senior Solution Architect Support dan MIS ",
+      "TOTAL_IN": 0,
+      "TOTAL_RILIS": 0,
+      "TOTAL_CLOSED": 0
+    }
+  ],
+  "TOTAL": 81
+}
